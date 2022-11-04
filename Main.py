@@ -15,3 +15,4 @@ for item in input_data.split(', '):
 merge_sort(data)
 print(data)
 
+
